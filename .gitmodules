@@ -1,0 +1,6 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/sidartaoss/brisashop-docs.git
+[submodule "microservices/brisashop-ordering"]
+	path = microservices/brisashop-ordering
+	url = https://github.com/sidartaoss/brisashop-ordering.git
